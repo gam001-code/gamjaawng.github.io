@@ -4,7 +4,6 @@ a {
 }
 
 a:hover {
-  \* try comment here hehe *\
   color: red;
   text-decoration: underline;
 }
@@ -41,3 +40,4 @@ h3 {
   margin-top: 2rem;
   margin-bottom: 0rem;
 }
+
